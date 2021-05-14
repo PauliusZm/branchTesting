@@ -3,5 +3,6 @@
 <Physical xmlns="http://br-automation.co.at/AS/Physical">
   <Objects>
     <Object Type="Configuration">FirstConfig</Object>
+    <Object Type="Configuration">SecondConfig</Object>
   </Objects>
 </Physical>
