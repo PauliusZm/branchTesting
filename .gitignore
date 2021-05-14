@@ -1,0 +1,5 @@
+/appMain/Binaries/
+/appMain/Diagnosis/
+/appMain/Temp/
+*.set
+*.isopen
