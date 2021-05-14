@@ -1,3 +1,3 @@
 VAR RETAIN
-	machineName : STRING[255] := 'Machine1'; (*Name of the machine*)
+	machineName : STRING[255] := 'Machine2'; (*Name of the machine*)
 END_VAR
